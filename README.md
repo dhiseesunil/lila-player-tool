@@ -2,6 +2,11 @@
 
 Interactive Streamlit tool for exploring player movement, bot behavior, loot distribution, combat events, storm deaths, and heatmaps across the LILA BLACK gameplay dataset.
 
+## Live App
+
+[Open the deployed app](https://lila-player-tool-sunil.streamlit.app/)
+
+
 ## What This Tool Does
 
 - renders player and bot journeys on the correct minimap
